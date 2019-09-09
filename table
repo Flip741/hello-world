@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style><table style="width:100%">
+  <tr>
+    <th>Month</th>
+    <th>Expenses</th> 
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$20</td>
+    <td>Car repair</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$130</td>
+    <td>Furniture</td>
+  </tr>
+  <tr>
+    <td>March</td>
+    <td>$30</td>
+    <td>Pool cleaning</td>
+  </tr>
+  <tr>
+  <td>Sum<\td>
+  <td>$180<\td>
+  <td>All done<\td>
+  
+</table>
+</body>
